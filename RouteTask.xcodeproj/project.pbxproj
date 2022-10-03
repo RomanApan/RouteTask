@@ -13,6 +13,7 @@
 		4D408F6328EA126100473C83 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D408F6128EA126100473C83 /* Main.storyboard */; };
 		4D408F6528EA126300473C83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D408F6428EA126300473C83 /* Assets.xcassets */; };
 		4D408F6828EA126300473C83 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D408F6628EA126300473C83 /* LaunchScreen.storyboard */; };
+		4D408F7028EA12AC00473C83 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D408F6F28EA12AC00473C83 /* Alert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4D408F6428EA126300473C83 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D408F6728EA126300473C83 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D408F6928EA126300473C83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D408F6F28EA12AC00473C83 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4D408F5B28EA126100473C83 /* AppDelegate.swift */,
 				4D408F5D28EA126100473C83 /* SceneDelegate.swift */,
 				4D408F5F28EA126100473C83 /* ViewController.swift */,
+				4D408F6F28EA12AC00473C83 /* Alert.swift */,
 				4D408F6128EA126100473C83 /* Main.storyboard */,
 				4D408F6428EA126300473C83 /* Assets.xcassets */,
 				4D408F6628EA126300473C83 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				4D408F6028EA126100473C83 /* ViewController.swift in Sources */,
 				4D408F5C28EA126100473C83 /* AppDelegate.swift in Sources */,
+				4D408F7028EA12AC00473C83 /* Alert.swift in Sources */,
 				4D408F5E28EA126100473C83 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
